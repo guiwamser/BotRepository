@@ -1,0 +1,1 @@
+print("A inteligencia artificial vai acabar com todos nos")
